@@ -27,15 +27,27 @@
 /* a:hover{
     color: red;
     text-transform: uppercase;
-    text-decoration: none; */
-}
+    text-decoration: none;
+} */
 p:first-letter{
+    background-image: url(../images/lin.gif);
     color:red;
     font-size: 1.8em;
     font-family: monospace;
+    opacity:0;
 }
+
 .move:hover{
     background-image: url(../images/lin.gif);
     background-repeat: no-repeat;
     padding-left: 20px;
+    transition: 3s;
+}
+
+.down:hover{
+    vertical-align: -20px;
+    background-image: url(../images/stud2.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    transition: 3s;
 }
