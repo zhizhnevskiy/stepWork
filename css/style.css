@@ -1,0 +1,22 @@
+.txt {
+    background-color: rgb(250, 222, 162);
+    border: 1px solid black;
+    background-image: url(https://cdn.discordapp.com/attachments/779370643765723196/779374801000071188/lin.gif);
+    color: blue;
+    background-repeat: no-repeat;
+    margin: 10px;
+    font-size: 12px;
+    text-indent: 19px;
+}
+
+.txt2 {
+    background-color: rgb(243, 216, 65);
+    border: 6px ridge grey;
+    color: blue;
+    background-image: url(https://cdn.discordapp.com/attachments/779370643765723196/779374801000071188/lin.gif);
+    background-repeat: no-repeat;
+    margin: 10px;
+    font-size: 16px;
+    text-indent: 19px;
+    padding-right: 10px;
+}
