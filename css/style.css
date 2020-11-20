@@ -1,7 +1,7 @@
 .txt {
     background-color: rgb(250, 222, 162);
     border: 1px solid black;
-    background-image: url(https://cdn.discordapp.com/attachments/779370643765723196/779374801000071188/lin.gif);
+    background-image: url(../images/lin.gif);
     color: blue;
     background-repeat: no-repeat;
     margin: 10px;
@@ -13,7 +13,7 @@
     background-color: rgb(243, 216, 65);
     border: 6px ridge grey;
     color: blue;
-    background-image: url(https://cdn.discordapp.com/attachments/779370643765723196/779374801000071188/lin.gif);
+    background-image: url(../images/lin.gif);
     background-repeat: no-repeat;
     margin: 10px;
     font-size: 16px;
@@ -22,15 +22,20 @@
 }
 
 .list {
-    list-style-image: url(https://cdn.discordapp.com/attachments/779370643765723196/779374801000071188/lin.gif);
+    list-style-image: url(../images/lin.gif);
 }
-a:hover{
+/* a:hover{
     color: red;
     text-transform: uppercase;
-    text-decoration: none;
+    text-decoration: none; */
 }
 p:first-letter{
     color:red;
     font-size: 1.8em;
     font-family: monospace;
+}
+.move:hover{
+    background-image: url(../images/lin.gif);
+    background-repeat: no-repeat;
+    padding-left: 20px;
 }
