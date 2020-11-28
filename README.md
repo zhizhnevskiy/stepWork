@@ -1,6 +1,8 @@
 
-### My study at the computer academy **STEP**
-...
-#### Zhizhnevskiy Yuri
-...
-##### 2020 
+# Study at the computer academy [STEP](https://vitebsk.itstep.by/)
+Specialty | Full Stack Developer 
+--- | --- 
+---
+#### [Zhizhnevskiy Yuri](https://github.com/zhizhnevskiy)
+
+>  2020
