@@ -6,6 +6,4 @@ echo $a - $b . "<br>";
 echo $a ** $b . "<br>";
 echo $a % $b . "<br>";
 echo $a . $b . "<br>";
-$c = ($d = 4) + 5;
-
-$
+$c = ($d + 4) + 5;
