@@ -38,7 +38,7 @@ if (preg_match($regexp,$str)) {
 } else {
     echo "Майл не верный";
 }
-
+echo "hi";
 ?>
 
 <!DOCTYPE html>
@@ -47,7 +47,6 @@ if (preg_match($regexp,$str)) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
     <title>Document</title>
 </head>
 
