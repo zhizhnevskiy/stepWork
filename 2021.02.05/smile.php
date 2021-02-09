@@ -15,7 +15,8 @@
 <form action="unswer.php" method="post">
     <textarea rows="10" cols="40" name="name"></textarea>
     <br>
-    E-mail: <input type="text" name="email">
+    Phone: <input type="text" name="email">
+
     <input type="submit" value="ok">
 </form>
 </body>
